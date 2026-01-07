@@ -8,7 +8,7 @@ a planet-friendly, open-source emoji character for universal use
 ---
 
 ## 🎨 About the Project
-Earthlings are champions of nature, always striving to protect and beautify our home planet. The **Earthling Emoji** was created to provide a high-quality, planet-friendly avatar and emoji option to celebrate our dedication, our progress, and our victories.
+Earthlings are champions of nature, always striving to protect and beautify our home planet. The **Earthling Emoji** was created to provide a planet-friendly, open-source avatar and emoji option to celebrate our dedication, our progress, and our victories.
 
 * **Creator:** Heather Succio
 * **Publisher:** Civic Artistry
@@ -19,8 +19,8 @@ Earthlings are champions of nature, always striving to protect and beautify our 
 ## 📥 Download Assets
 You can find the following assets in this repository:
 * **High-Res icon images:** PNG files found in the `/assets/icons` folder.
-* **Source-vector files:** Scalable AI and SVG files found in the `assets//raw` folder.
-* **README:** Usage guidelines.
+* **Source-vector files:** Scalable AI and SVG files found in the `/assets/raw` folder.
+* **README:** Use guidelines.
 * **LICENSE:** License details.
 
 ---
@@ -44,4 +44,4 @@ For full license details, see the [LICENSE](./LICENSE) file in this repository o
 
 ---
 
-*Find more from us at [https://earthlingemoji.com]*
+*Find more from us at https://earthlingemoji.com*
