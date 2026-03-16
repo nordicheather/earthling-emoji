@@ -11,7 +11,6 @@ a planet-friendly, open-source emoji character for universal use
 Earthlings are champions of nature, always striving to protect and beautify our home planet. The **Earthling Emoji** was created to provide a planet-friendly, open-source avatar and emoji option to celebrate our dedication, our progress, and our victories.
 
 * **Creator:** Heather Succio
-* **Publisher:** Civic Artistry
 * **Status:** Open Source / Creative Commons
 
 ---
@@ -31,7 +30,7 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 ### How to Credit
 You are free to share, remix, and use this character commercially. We simply ask that you provide the following attribution:
 
-> **"Earthling Emoji" by Heather Succio / Civic Artistry (Licensed under CC BY 4.0)**
+> **"Earthling Emoji" by Heather Succio (Licensed under CC BY 4.0)**
 
 For full license details, see the [LICENSE](./LICENSE) file in this repository or visit [CreativeCommons.org](https://creativecommons.org/licenses/by/4.0/).
 
@@ -40,7 +39,7 @@ For full license details, see the [LICENSE](./LICENSE) file in this repository o
 ## 🚀 Usage Guidelines
 * **Do:** Use this in your apps, games, and personal projects.
 * **Do:** Feel free to modify the colors or expressions to fit your needs.
-* **Don't:** Claim ownership of the character or use the "Earthling Emoji" name to imply an official endorsement by Heather Succio or Civic Artistry.
+* **Don't:** Claim ownership of the character or use the "Earthling Emoji" name to imply an official endorsement by Heather Succio.
 
 ---
 
